@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="antlr:antlr:2.7.6" type="repository">
+    <properties maven-id="antlr:antlr:2.7.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.6/antlr-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
